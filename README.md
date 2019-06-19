@@ -19,4 +19,5 @@ after trying to manipulate the features to avoid overfitting the accuracy only g
 Though validation set accuracy is acceptable, we need more data to be able to minimize or avoid the overfitting.
 
 NOTE: check link below if the notebook is not working on github
+
 https://nbviewer.jupyter.org/github/omarbassuni2/Binary-Classification-Problem/blob/master/Binary%20Classification.ipynb
